@@ -2,9 +2,7 @@
 ### 需要nodejs版本 v18+
 ### 安装依赖
 ```
- npm install --save express qrcode-terminal
- npm install --save wechaty
- npm install --save express
+ npm install --save express wechaty
 ```
 ### 运行
 ```
