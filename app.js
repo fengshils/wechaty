@@ -1,7 +1,5 @@
 /**
- * npm install --save express qrcode-terminal
- * npm install --save wechaty
- * npm install --save express
+ * npm install --save express wechaty qrcode-terminal
  * node app.js
  * 
  * 请求接口
